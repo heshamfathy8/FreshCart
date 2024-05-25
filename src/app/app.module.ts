@@ -29,7 +29,7 @@ import { CategoryProductsComponent } from './category-products/category-products
 import { SpecificBrandComponent } from './specific-brand/specific-brand.component';
 import { ForgetpasswordComponent } from './forgetpassword/forgetpassword.component';
 import { WishListComponent } from './wish-list/wish-list.component';
-
+import {LocationStrategy, HashLocationStrategy} from '@angular/common';
 
 @NgModule({
   declarations: [
